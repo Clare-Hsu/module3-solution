@@ -125,6 +125,13 @@ padding:6vw;
 
 
 @media only screen and (max-width: 767px) {
+	
+	h1 {
+	position:absolute;
+	left:7vw;
+	top:15px;
+}
+
 .col-xs-12 {
 background:#fff8e8;
 border-width: 2vw;
